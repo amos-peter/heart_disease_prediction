@@ -55,6 +55,9 @@ Link: https://www.cdc.gov/brfss/annual_data/annual_2022.htm
 
 Kaggle link: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
 
+The output of the notebook is execute with Streamlit, it is then deploy to Github Pages for web hosting. Below is the link to deployed page:
+https://heartdiseaseprediction-group5.streamlit.app/
+
 The table below shows all variables and their descriptions.
 
 <br>
